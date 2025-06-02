@@ -2,3 +2,4 @@ main-commit-2
 
 user2-commit-1
 user2-commit-2
+user3-commit-3
